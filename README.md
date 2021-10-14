@@ -23,4 +23,4 @@
 
 **Ссылка на GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://shum-ok.github.io/russian-travel/)
+* [Ссылка на GitHub Pages](https://shum-ok.github.io/yet-another-project/)
