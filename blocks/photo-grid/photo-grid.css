@@ -8,14 +8,14 @@
   margin: 0 auto;
 }
 
-@media (max-width : 1024px) {
+@media (max-width: 1024px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fit, minmax(225px, max-content));
     gap: 14px 14px;
   }
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fit, minmax(264px, max-content));
     gap: 16px 16px;
@@ -23,7 +23,7 @@
   }
 }
 
-@media (max-width : 680px) {
+@media (max-width: 680px) {
   .photo-grid {
     width: calc(100% - 32px);
   }

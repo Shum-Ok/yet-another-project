@@ -3,7 +3,7 @@
   object-fit: contain;
 }
 
-@media (max-width : 480px) {
+@media (max-width: 480px) {
   .header__logo {
     max-width: 142px;
   }

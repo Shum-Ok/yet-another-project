@@ -4,13 +4,13 @@
   margin: 0 0 33px;
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .intro__text {
     max-width: 720px;
   }
 }
 
-@media (max-width : 580px) {
+@media (max-width: 580px) {
   .intro__text {
     max-width: 288px;
   }

@@ -10,13 +10,13 @@
   margin-bottom: 0;
 }
 
-@media (max-width : 850px) {
+@media (max-width: 850px) {
   .place {
     grid-template-columns: 390px 1fr;
   }
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .place {
     grid-template-columns: 340px 1fr;
     margin-bottom: 72px;
@@ -24,7 +24,7 @@
   }
 }
 
-@media (max-width : 680px) {
+@media (max-width: 680px) {
   .place {
     grid-template-columns: minmax(320px, 1fr);
     margin-bottom: 50px;

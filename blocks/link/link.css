@@ -14,19 +14,19 @@
   z-index: 1;
 }
 
-@media (max-width : 1024px) {
+@media (max-width: 1024px) {
   .link {
     min-height: 640px;
   }
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .link {
     min-height: 480px;
   }
 }
 
-@media (max-width : 560px) {
+@media (max-width: 560px) {
   .link {
     min-height: 200px;
   }

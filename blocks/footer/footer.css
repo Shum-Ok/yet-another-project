@@ -6,13 +6,13 @@
   justify-content: space-between;
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .footer {
     max-width: calc(100% - 48px);
   }
 }
 
-@media (max-width : 580px) {
+@media (max-width: 580px) {
   .footer {
     width: 100%;
     flex-direction: column;

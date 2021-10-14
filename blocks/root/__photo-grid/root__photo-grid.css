@@ -2,7 +2,7 @@
   margin-bottom: 92px;
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
   .root__photo-grid {
     margin-bottom: 88px;
   }

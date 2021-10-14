@@ -5,7 +5,7 @@
   vertical-align: bottom;
 }
 
-@media (max-width : 680px) {
+@media (max-width: 680px) {
   .place__website {
     margin-left: 16px;
   }

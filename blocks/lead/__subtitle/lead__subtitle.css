@@ -11,13 +11,13 @@
   max-width: 640px;
 }
 
-@media (max-width : 1024px) {
+@media (max-width: 1024px) {
   .lead__subtitle {
     margin-bottom: 56px;
   }
 }
 
-@media (max-width : 680px) {
+@media (max-width: 680px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 125%;
