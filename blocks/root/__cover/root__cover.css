@@ -1,0 +1,15 @@
+.root__cover {
+  margin-bottom: 92px;
+}
+
+@media (max-width : 768px) {
+  .root__cover {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width : 680px) {
+  .root__cover {
+    margin-bottom: 64px;
+  }
+}

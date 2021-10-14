@@ -1,0 +1,15 @@
+.root__lead {
+  margin-bottom: 92px;
+}
+
+@media (max-width : 768px) {
+  .root__lead {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width : 680px) {
+  .root__lead {
+    margin-bottom: 64px;
+  }
+}

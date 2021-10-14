@@ -1,0 +1,9 @@
+.root__header {
+  margin-bottom: 56px;
+}
+
+@media (max-width : 1024px) {
+  .root__header {
+    margin-bottom: 48px;
+  }
+}

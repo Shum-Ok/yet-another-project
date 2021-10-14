@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 28px;
+  width: calc(100% - 96px);
+  height: 52px;
+}
+
+@media (max-width : 768px) {
+  .header {
+    width: calc(100% - 48px);
+  }
+}
+
+@media (max-width : 680px) {
+  .header {
+    width: calc(100% - 32px);
+    height: 42px;
+  }
+}

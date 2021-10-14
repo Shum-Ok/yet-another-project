@@ -1,0 +1,12 @@
+.place__website {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column-reverse;
+  vertical-align: bottom;
+}
+
+@media (max-width : 680px) {
+  .place__website {
+    margin-left: 16px;
+  }
+}
