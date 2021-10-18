@@ -7,3 +7,9 @@
     margin-bottom: 88px;
   }
 }
+
+@media (max-width: 320px) {
+  .root__photo-grid {
+    margin-bottom: 64px;
+  }
+}

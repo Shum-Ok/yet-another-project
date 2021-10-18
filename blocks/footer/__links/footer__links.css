@@ -10,6 +10,6 @@
   .footer__links {
     flex-direction: column;
     justify-content:  space-between;
-    height: 248px;
+    max-height: 248px;
   }
 }
