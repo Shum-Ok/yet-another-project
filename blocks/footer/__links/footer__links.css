@@ -8,8 +8,7 @@
 
 @media (max-width: 580px) {
   .footer__links {
-    flex-direction: column;
-    justify-content:  space-between;
-    max-height: 248px;
+    display: grid;
+    grid-template-rows: repeat(5, 56px);
   }
 }
