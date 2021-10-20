@@ -1,14 +1,7 @@
 .header__links {
   display: flex;
   justify-content: space-between;
-  width: 78px;
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-@media (max-width: 480px) {
-  .header__links {
-    width: 62px;
-  }
 }

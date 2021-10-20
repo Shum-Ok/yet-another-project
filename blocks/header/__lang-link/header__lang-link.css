@@ -2,7 +2,7 @@
   font-size: 24px;
   line-height: 117%;
   color: white;
-  margin-right: 18px;
+  padding-left: 18px;
   text-decoration: none;
   opacity: 1;
   transition: opacity 0.5s;
@@ -18,9 +18,5 @@
 .header__lang-link:hover {
   opacity: 0.8;
   transition: opacity 0.5s;
-}
-
-.header__lang-link:nth-last-child(1) {
-  margin-right: 0;
 }
 
